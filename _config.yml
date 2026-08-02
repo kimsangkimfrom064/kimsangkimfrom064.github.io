@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "김상킴"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/kimsangkimfrom064/data-center/blob/main/images/avatar/F2DF6E8A-D9A3-4259-9553-C1445F3662F0_1_105_c.jpeg?raw=true"
   bio              : "무의미한 긍정은 싫어~"
   location         : "Seoul, South Korea"
   email            :
