@@ -4,7 +4,7 @@ title:  "Europedump"
 ---
 <script src="https://cdn.tailwindcss.com"></script>
 
-<div class="grid grid-cols-2 md:grid-cols-3 gap-4" markdown="0">
+<div class="grid grid-cols-2 md:grid-cols-3 gap-4">
   
   <div>
     <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/FECCACB4-068E-443E-B137-F15FACAB087E_4_5005_c.jpeg?raw=true" alt="사진1" class="rounded-lg shadow-md object-cover h-full w-full">
