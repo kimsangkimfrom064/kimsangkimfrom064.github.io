@@ -87,10 +87,6 @@ title:  "Europedump"
   </div>
   
   <div>
-    <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/96A9721B-E4D2-46FC-861B-38ECE7CECE46_1_105_c.jpeg?raw=true" alt="사진12" class="rounded-lg shadow-md object-cover h-full w-full">
-  </div>
-  
-  <div>
     <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/966E0025-AC95-4171-B3CE-7995AC9259FD_1_105_c.jpeg?raw=true" alt="사진12" class="rounded-lg shadow-md object-cover h-full w-full">
   </div>
   
