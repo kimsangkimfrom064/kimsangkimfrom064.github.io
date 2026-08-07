@@ -6,7 +6,7 @@ title:  "안상잘부"
 ---
 
 ## 모든 준비는 끝났다
-<img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/life/2026-08-07/FAFEAEAB-D710-4058-BCA5-0FCD958E8A8B.jpg?raw=true" alt="사진 설명" style="width: 30%; max-width: 250px; height: auto; display: block; margin: 0 auto;">
+<img src="[https://github.com/kimsangkimfrom064/data-center/blob/main/images/life/2026-08-07/FAFEAEAB-D710-4058-BCA5-0FCD958E8A8B.jpg?raw=true](https://github.com/kimsangkimfrom064/data-center/blob/main/images/life/2026-08-07/E18AE83B-2FC6-43CB-A83F-207737BD00C8_1_201_a.jpeg?raw=true)" alt="사진 설명" style="width: 30%; max-width: 250px; height: auto; display: block; margin: 0 auto;">
 17/18SS 김상현이 된 기분..
 
 ## 요새 영화 자주 보는 사람으로서 여담
