@@ -60,22 +60,23 @@ layout: default
         {% include page__taxonomy.html locale=locale %}
         {% include page__date.html locale=locale %}
       </footer>
-
-      {% if page.share %}{% include social-share.html locale=locale %}{% endif %}
-
-      {% include post_pagination.html locale=locale %}
-    </div>
-
-    {% if site.comments.provider and page.comments %}
-      {% if jekyll.environment == 'production' %}
+      {% if site.comments.provider and page.comments %}
+        {% if jekyll.environment == 'production' %}
         {% include comments.html locale=locale %}
-      {% else %}
+        {% else %}
         <p>
           Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>,
           but are disabled in non-production environments.
         </p>
+        {% endif %}
       {% endif %}
-    {% endif %}
+
+      {% include post_pagination.html locale=locale %}
+      
+      {% if page.share %}{% include social-share.html locale=locale %}{% endif %}
+      
+    </div>
+
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
