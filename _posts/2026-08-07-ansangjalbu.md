@@ -1,6 +1,7 @@
 ---
 permalink: /life/
 layout: single
+comments: true
 title:  "안상잘부"
 ---
 
