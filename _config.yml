@@ -109,7 +109,7 @@ analytics:
   provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-V229RB7RMT"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
