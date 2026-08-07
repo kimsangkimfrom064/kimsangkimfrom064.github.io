@@ -10,7 +10,7 @@ title:  "안상잘부"
 17/18SS 김상현이 된 기분..
 
 ## 요새 영화 자주 보는 사람으로서 여담
-<img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/life/2026-08-07/IMG_7049%20(1).jpg?raw=true" alt="사진 설명" style="width: 50%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
+<img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/life/2026-08-07/IMG_7049%20(1).jpg?raw=true" alt="사진 설명" style="width: 75%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
 그나저나 오늘 스파이더맨 보고 왔는데 솔직히 눈에서 물 3번 정도 나오더라요..  
 
 스크린x 강추함다..활공할 때 진짜 돈값하더라요..  
