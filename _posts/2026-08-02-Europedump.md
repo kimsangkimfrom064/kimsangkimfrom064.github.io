@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Europedump"
+comments: true
 ---
 <script src="https://cdn.tailwindcss.com"></script>
 
