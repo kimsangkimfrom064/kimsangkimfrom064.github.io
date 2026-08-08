@@ -29,10 +29,6 @@ comments: true
   </div>
   
   <div>
-    <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/E6D8F968-D664-4231-9D68-8A205AB7B0C3_1_105_c.jpeg?raw=true" alt="사진6" class="rounded-lg shadow-md object-cover h-full w-full">
-  </div>
-  
-  <div>
     <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/E0E3AF48-F14E-4D78-8460-B12D26399CDA_1_105_c.jpeg?raw=true" alt="사진7" class="rounded-lg shadow-md object-cover h-full w-full">
   </div>
   
@@ -83,6 +79,10 @@ comments: true
   <div>
     <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/A1673B77-0572-40B7-9F9A-CA0BB42E77EC_1_105_c.jpeg?raw=true" alt="사진12" class="rounded-lg shadow-md object-cover h-full w-full">
   </div>
+
+   <div>
+    <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/E6D8F968-D664-4231-9D68-8A205AB7B0C3_1_105_c.jpeg?raw=true" alt="사진6" class="rounded-lg shadow-md object-cover h-full w-full">
+  </div>
   
   <div>
     <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/A109B3C2-E357-429D-A2F9-8B141EACBDB0_1_105_c.jpeg?raw=true" alt="사진12" class="rounded-lg shadow-md object-cover h-full w-full">
@@ -91,6 +91,5 @@ comments: true
   <div>
     <img src="https://github.com/kimsangkimfrom064/data-center/blob/main/images/Europe/966E0025-AC95-4171-B3CE-7995AC9259FD_1_105_c.jpeg?raw=true" alt="사진12" class="rounded-lg shadow-md object-cover h-full w-full">
   </div>
-  
 
 </div>
